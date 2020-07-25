@@ -16,3 +16,7 @@ class Song
   end
 end 
   
+  def self.count
+end 
+
+  
